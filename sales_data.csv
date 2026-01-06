@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_Name,Region,Product,Category,Quantity,Price,Sales
+O001,01-01-2025,Amit,West,Laptop,Electronics,1,55000,55000
+O002,02-01-2025,Riya,North,Mobile,Electronics,2,20000,40000
+O003,02-01-2025,Neha,South,Chair,Furniture,4,2500,10000
+O004,03-01-2025,Rahul,East,Desk,Furniture,1,12000,12000
+O005,03-01-2025,Pooja,West,Tablet,Electronics,1,30000,30000
+O006,04-01-2025,Amit,West,Headphones,Electronics,3,3000,9000
+O007,04-01-2025,Riya,North,Chair,Furniture,2,2500,5000
+O008,05-01-2025,Neha,South,Laptop,Electronics,1,56000,56000
+O009,05-01-2025,Rahul,East,Mobile,Electronics,1,22000,22000
+O010,06-01-2025,Pooja,West,Desk,Furniture,2,12000,24000
